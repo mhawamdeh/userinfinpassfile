@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/muhammadhawamdeh/CLionProjects/files/hash256.h
+algorithm
+-
+cassert
+-
+iterator
+-
+sstream
+-
+vector
+-
+fstream
+-
+
+/Users/muhammadhawamdeh/CLionProjects/files/main.cpp
+readingandstrippinglines.h
+/Users/muhammadhawamdeh/CLionProjects/files/readingandstrippinglines.h
+
+/Users/muhammadhawamdeh/CLionProjects/files/readingandstrippinglines.h
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+hash256.h
+/Users/muhammadhawamdeh/CLionProjects/files/hash256.h
+
